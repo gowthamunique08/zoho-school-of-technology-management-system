@@ -1,1 +1,1 @@
-"# zoho-school-of-technology-management-system" 
+"zoho-school-of-technology-management-system" 
